@@ -39,4 +39,3 @@ const printPizza = ({ _id, pizzaName, toppings, size, commentCount, createdBy, c
 };
 
 getPizzaList();
-
